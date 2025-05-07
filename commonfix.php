@@ -1,4 +1,4 @@
-  <?php
+<?php
 
 require_once 'commonfix.civix.php';
 use CRM_Commonfix_ExtensionUtil as E;
