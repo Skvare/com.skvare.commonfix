@@ -9,10 +9,10 @@
     <email>sunil@skvare.com</email>
   </maintainer>
   <releaseDate>2025-01-30</releaseDate>
-  <version>1.0</version>
+  <version>1.1</version>
   <develStage>alpha</develStage>
   <compatibility>
-    <ver>5.0</ver>
+    <ver>5.51</ver>
   </compatibility>
   <comments>This is a new, undeveloped module</comments>
   <classloader>
@@ -21,6 +21,9 @@
   </classloader>
   <civix>
     <namespace>CRM/Commonfix</namespace>
-    <format>23.02.1</format>
+    <format>25.10.2</format>
   </civix>
+  <mixins>
+    <mixin>scan-classes@1.0.0</mixin>
+  </mixins>
 </extension>
